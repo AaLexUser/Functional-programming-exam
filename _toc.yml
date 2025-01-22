@@ -1,0 +1,22 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Экзаменационные вопросы
+    chapters:
+      - file: parts/1q.md
+      - file: parts/2q.md
+      - file: parts/3q.md
+      - file: parts/4q.md
+      - file: parts/5q.md
+      - file: parts/6q.md
+      - file: parts/7q.md
+      - file: parts/8q.md
+      - file: parts/9q.md
+      - file: parts/10q.md
+      - file: parts/11q.md
+  - caption: Индекс
+    chapters:
+      - file: genindex
