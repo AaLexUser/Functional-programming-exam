@@ -3,6 +3,7 @@
 
 title: Функциональное программирование
 author: Aleksei Lapin
+copyright: "2025"
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
@@ -22,12 +23,14 @@ bibtex_bibfiles:
 parse:
   myst_enable_extensions:
     - deflist
+    - html_image
+    - amsmath
+    - dollarmath
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/executablebooks/jupyter-book  # Online location of your book
-  path_to_book: docs  # Optional path to your book, relative to the repository root
-  branch: master  # Which branch of the repository should be used when creating links (optional)
+  url: https://github.com/AaLexUser/Functional-programming-exam  # Online location of your book
+  branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository

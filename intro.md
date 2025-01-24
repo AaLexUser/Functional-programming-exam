@@ -2,3 +2,6 @@
 
 ```{tableofcontents}
 ```
+```{bibliography}
+:style: unsrt
+```

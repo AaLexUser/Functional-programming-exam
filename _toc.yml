@@ -17,6 +17,16 @@ parts:
       - file: parts/9q.md
       - file: parts/10q.md
       - file: parts/11q.md
+      - file: parts/12q.md
+      - file: parts/13q.md
+      - file: parts/14q.md
+      - file: parts/15q.md
+      - file: parts/16q.md
+      - file: parts/17q.md
+      - file: parts/18q.md
+      - file: parts/19q.md
+      - file: parts/20q.md
+      - file: parts/21q.md
   - caption: Индекс
     chapters:
       - file: genindex
